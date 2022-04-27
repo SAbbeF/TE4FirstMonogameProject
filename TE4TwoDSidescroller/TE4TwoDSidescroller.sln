@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TE4TwoDSidescroller", "TE4TwoDSidescroller\TE4TwoDSidescroller.csproj", "{51B33591-AAD4-4568-B7FB-855478BE7EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51B33591-AAD4-4568-B7FB-855478BE7EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B33591-AAD4-4568-B7FB-855478BE7EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B33591-AAD4-4568-B7FB-855478BE7EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B33591-AAD4-4568-B7FB-855478BE7EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D45BBD-E379-49BE-B068-46425DC4D4CE}
+	EndGlobalSection
+EndGlobal
